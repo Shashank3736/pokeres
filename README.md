@@ -1,6 +1,8 @@
-# Pokemon Images
+# Pokeres
 
-# URL
+Unofficial Pokémon images
+
+# Base URL
 `https://pokemon.snowflakedev.org/img/:id.png`
 
 **Example:** [https://pokemon.snowflakedev.org/img/25.png](https://pokemon.snowflakedev.org/img/25.png)
